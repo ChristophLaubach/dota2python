@@ -1,0 +1,5 @@
+.idea
+
+git config --global user.name "Christoph Laubach"
+
+git config --global user.email narkosays@gmail.com
